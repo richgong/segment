@@ -1,0 +1,12 @@
+nvidia-cudnn-cu11==8.6.0.163
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-nccl-cu11==2.18.3
+torch
+numpy
+opencv-python
+pycocotools
+matplotlib
+onnxruntime
+onnx
+jupyterlab
+torchvision
